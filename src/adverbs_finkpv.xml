@@ -1,0 +1,7636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Adv">aamuisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">асывъяснас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aamulla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">асывнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aamunkoitteessa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">асъядор</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aamuyöstä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">асъя войнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ahnaasti (liekeistä)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">азыма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ai niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">забыль</t>
+
+        <t Contlex="ADV_" pos="Adv">збыль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aiemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войдӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aikaisemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">водзті</t>
+
+        <t Contlex="ADV_" pos="Adv">войдӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aikaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">водз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aina</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">век</t>
+
+        <t Contlex="ADV_" pos="Adv">завсе</t>
+
+        <t Contlex="ADV_" pos="Adv">нэмсӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">пыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ainakin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">этша вылӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ainoastaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">куш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aivan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">дзурс</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">чав</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ajallaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ас кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ajoissa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ас кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">улӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alassuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alhaalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">улын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alinomaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">завсе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alituisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нэмсӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aluksi??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войдӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">alussa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">заводитчигӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">первойсӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">armottomasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беспути</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aumauksen aikana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">чӧвтігкості</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eKr. (ennen Kristusta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">миян кадӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eaa.</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">миян кадӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">edes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">весиг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">edullinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">барышнӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ehkä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">колӧкӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">пӧди</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei hassumpi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дивъя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei kauan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">недыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei koskaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">некор</t>
+
+        <t Contlex="ADV_" pos="Adv">ньӧтчыд</t>
+
+        <t Contlex="ADV_" pos="Adv">ньӧтчыдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei kovin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-TRA" pos="Adv">абу вывті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei milloinkaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ньӧтчыд</t>
+
+        <t Contlex="ADV_" pos="Adv">ньӧтчыдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei millään tavalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нинӧмӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei missään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">некӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">некӧні</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ei mitään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нинӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eilen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧнлун</t>
+
+        <t Contlex="ADV_" pos="Adv">тӧрыт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eilen illalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧрыт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eipä ihme</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дивъя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">elossa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ловйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">elävänä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ловйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">enemmän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧльӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">унджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">enimmäkseen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кызвыйӧ</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">медсясӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eniten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">медуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ennakkoon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">водзвыв</t>
+
+        <t Contlex="ADV_" pos="Adv">дӧвӧль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ennen aikojaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кадысь водз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensi yönä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тавой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensiksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войдӧр</t>
+
+        <t Contlex="ADV-IS_SUPERL" pos="Adv">медвойдӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">первӧй</t>
+
+        <t Contlex="ADV_" pos="Adv">первӧйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensimmäisen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">медводдзаысь</t>
+
+        <t Contlex="ADV_" pos="Adv">первойысьсӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">водзвыв</t>
+
+        <t Contlex="ADV_" pos="Adv">войдӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">первӧй</t>
+
+        <t Contlex="ADV_" pos="Adv">первӧйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">enää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нин</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">epäinhimillisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">неморт ног</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">erikseen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">торйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">erillään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">торйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">erittäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беспути</t>
+
+        <t Contlex="ADV_" pos="Adv">бон</t>
+
+        <t Contlex="ADV_" pos="Adv">бонбус</t>
+
+        <t Contlex="ADV_" pos="Adv">вывті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">erittäin paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сьӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">erityisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">торйӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">торйӧн нин</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">eteenpäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">водзӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">etupäässä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ёнджыкасӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hapuillen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ки маласӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">кималасӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">harvoin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гежӧда</t>
+
+        <t Contlex="ADV_" pos="Adv">шоча</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">heikosti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">омӧля</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">helinällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зёль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hellävaraisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бережнӧя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">helposti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кокньыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">heti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзик пыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">heti kun</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мыйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hieman</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">неуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hiljaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гусьӧник</t>
+
+        <t Contlex="ADV_" pos="Adv">чӧла</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hirveän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hirveästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беда</t>
+
+        <t Contlex="ADV_" pos="Adv">загреки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hitaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ладӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">надзӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">ньӧжйӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">ньӧжйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hongankolistaja</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зезьӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">huiskin haiskin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сорнад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">huolimattomasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кийывсӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">huomattavasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">тӧдчымӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">huomenna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">аски</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">huonosti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">лёка</t>
+
+        <t Contlex="ADV_" pos="Adv">омӧля</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hurjan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hyvin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бура</t>
+
+        <t Contlex="ADV_" pos="Adv">бура</t>
+
+        <t Contlex="ADV_" pos="Adv">буриндзика</t>
+
+        <t Contlex="ADV_" pos="Adv">буриника</t>
+
+        <t Contlex="ADV_" pos="Adv">зэв</t>
+
+        <t Contlex="ADV_" pos="Adv">лючки</t>
+
+        <t Contlex="ADV_" pos="Adv">ёна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hyvin paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">дӧбельки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hyvänsuopaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бурпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hyväntahtoisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бурпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hyödyllinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">барышнӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">häijysti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лёкаддза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ilkeästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">лёка</t>
+
+        <t Contlex="ADV_" pos="Adv">лёкаддза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">illalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рытнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ilmaiseksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дарӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ilman kenkiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кӧмтӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ilman kiirettä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ас шодйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ilmeisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">колӧкӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">явӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">iloisena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">долыдпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">iloisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гажаа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">iltaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рытъянас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">itsekseen (lukea)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гусьӧник</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jalan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">подӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jatkuvasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">век</t>
+
+        <t Contlex="ADV_" pos="Adv">дорала</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нин</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jonkin aikaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">недыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jopa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">быдсӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">весиг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">joskus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">корсюрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jostakin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jotenkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кыдзкӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">jouten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">весь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">juosten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">котӧрӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">juuri</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">буретш</t>
+
+        <t Contlex="ADV_" pos="Adv">буретш</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">нач</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">järiläs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зезьӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">järjestyksessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">järkevästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сюся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kahdestaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кыкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kahdesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кык пӧв</t>
+
+        <t Contlex="ADV_" pos="Adv">кыкысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kahteen kertaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кык пӧв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kahtia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">шӧри</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kaikissa suhteissa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_INE" pos="Adv">быдторйын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kaikkein</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзоньнас</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">медся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kaksi kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кыкысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kamala</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">загреки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">katsomatta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-TOG" pos="Adv">видзӧдтӧг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauan sitten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">важӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-TER" pos="Adv">ылӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauheasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧсьмерти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kaukana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">ылын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauniisti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мичаа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kehystää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рама пиӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kenties</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">колӧкӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kerrallaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧтпырйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">коркӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтчыд</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтчыдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kerta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_ILL" pos="Adv">пӧрйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">keskellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">шӧрын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">keskellä kirkasta päivää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лун шӧр лунӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">keskimäärin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">шӧркодя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kesällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гожӧмнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kevyesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кокньыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kieltäytyä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">паныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kieroon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kilahdus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бриньк</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kilinällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зёль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kohta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">регыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko aamun</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">асывбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko ajan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">завсе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko illan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рытывбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko kesän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гожӧмбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko päivän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лунтыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko syksyn</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">арбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko talven</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧвбыдӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koko yön</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kokonaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">брӧд</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">дзурс</t>
+
+        <t Contlex="ADV_" pos="Adv">капитальнӧя</t>
+
+        <t Contlex="ADV_" pos="Adv">ставнас</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">чав</t>
+
+        <t Contlex="ADV_" pos="Adv">юрӧн и кокӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kolmannen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">коймӧдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kolmen päivän päästä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэсь аскомысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kopisten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тотшкӧдчӧмӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">koska oli ilkeä??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лёкаддза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kovaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гораа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kovasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧсьмерти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kovin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ёна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuinka monta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kumollaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kumossa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kunnolla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">буриндзика</t>
+
+        <t Contlex="ADV_" pos="Adv">буриника</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuolemaisillaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_INE" pos="Adv">кулан выйын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuoliaaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧсьмерти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuten ennenkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">важ моз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuukausittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧлысьнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kuumasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пӧся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kyllikseen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">пӧтмӧн</t>
+
+        <t Contlex="ADV-VTER" pos="Adv">пӧттӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kyllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">да</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kymmenen kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дас пӧв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kymmenen verran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дас мында</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">käheäksi asti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гӧлӧс быртӧдзыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">käsillä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кивыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kävellen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">подӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lakkaamatta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-TOG" pos="Adv">дугдывтӧг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lapsuudessa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ичӧт дырйи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">laukaten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кокйыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">leveydeltä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пасьтала</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">leveydeltään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пасьта ног</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">liian</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вывті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">liian (paljon, monta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">беспути</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">liian paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бон</t>
+
+        <t Contlex="ADV_" pos="Adv">бонбус</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">дӧбельки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">liikaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">дӧбельки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">liikkumatta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">брон</t>
+
+        <t Contlex="ADV_" pos="Adv">дув</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lisää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ещӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">loppujen lopuksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрвылас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lopuksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="AdvTemp" pos="Adv">медбӧрти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lopulta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрвылас</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧръявыв</t>
+
+        <t Contlex="ADV-IS_INE" pos="Adv">медбӧрын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">loputtomiin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">помся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lujasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зумыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lumen peitossa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лымйӧсь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lumessa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лымйӧсь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">luultavasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пӧди</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lähellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">неылын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lähes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_ILL" pos="Adv">матӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">läpi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзув</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">maanpintaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_ILL" pos="Adv">ортсыӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mahalleen??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mahdollisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">колӧкӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melkein</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_ILL" pos="Adv">матӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">пӧшти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">вель</t>
+
+        <t Contlex="Ad-ATAG" pos="Adv">доза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melko hyvin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">буракодь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melko kireästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зэлыдакодя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melko voimakkaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ёнакодь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">meren suunnalta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">саридзладорсянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mielellään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">любӧпырысь</t>
+
+        <t Contlex="ADV_" pos="Adv">окотапырысь</t>
+
+        <t Contlex="ADV_" pos="Adv">радпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">miellyttävästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лӧсьыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mihin suuntaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кодарлань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">milloin tahansa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">корсюрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">minnepäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кодарлань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">missä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">missä tarkemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кӧнджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mistä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mistäpäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кысянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">monesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">унаысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">moni paikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-LA" pos="Adv">уналаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">monta kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">унаысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">montako</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mukavasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лӧсьыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">muodon vuoksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">йӧзаддза</t>
+
+        <t Contlex="ADV_" pos="Adv">мода вылас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">mustanaan jtak</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сьӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">muu paikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-LA" pos="Adv">мукӧдлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">muualla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">мӧдлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">muutaman kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">этшаысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">muutamassa paikassa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">ӧткымынлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">myöhemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрсі</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрти</t>
+
+        <t Contlex="ADV-SPAT" pos="Adv">бӧрын</t>
+
+        <t Contlex="ADV_" pos="Adv">сёрджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">myöhään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сёрӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">myötäkarvaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гӧн ньылыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">myötäpäivään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">шонді ньылыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">да</t>
+
+        <t Contlex="ADV_" pos="Adv">сідзи</t>
+
+        <t Contlex="ADV_" pos="Adv">тадз</t>
+
+        <t Contlex="ADV_" pos="Adv">тадзи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">niin monta kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кымын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">niin paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сымда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">niissä paikoissa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">сэнъясын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">noin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гӧгӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">кутшӧмкӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">ылӧс</t>
+
+        <t Contlex="ADV_" pos="Adv">ылӧсас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">nopeasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">журӧбӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">чожа</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧдйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">nuorena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">том дырйи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">nyt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">час</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧні</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">näin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сідзи</t>
+
+        <t Contlex="ADV_" pos="Adv">тадз</t>
+
+        <t Contlex="ADV_" pos="Adv">тадзи</t>
+
+        <t Contlex="ADV_" pos="Adv">тадзи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">näkemiin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-VTER" pos="Adv">аддзысьлытӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">näköjään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">аддзымӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">аддзымӧнъя</t>
+
+        <t Contlex="ADV_" pos="Adv">буракӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">видзӧдӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">odottamatta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">другӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">oikein</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бура</t>
+
+        <t Contlex="ADV_" pos="Adv">зэв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">on epätodennäköistä, että</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧдвакӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">on tapana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">велалӧмпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">onnellisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лючки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pahasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">омӧля</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">paikoitellen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кӧнсюрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">palata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">paljain jaloin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кӧмтӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ёна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pareittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кыкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">paremmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧльӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pelokkaana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">полӧмпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">perinpohjin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вуж выйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">perusteellisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">капитальнӧя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">peräkkäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pian</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">регыд</t>
+
+        <t Contlex="ADV_" pos="Adv">чожа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pienenä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ичӧт дырйи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pikkuhiljaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вочасӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pilkkahintaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дарӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pimeässä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пемыднас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pirteästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бри да бра</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pitkittäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кузяла ног</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pohjoisemmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войвывланьынджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">poikittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вомӧн ног</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">poikkeuksetta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">puoleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">джынвыйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">päinvastoin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мӧдарӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">päivisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">лунъяснас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">päivällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">луннас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pääasiassa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ёнджыкасӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">pääosin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кызвыйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">rajattomasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мера тӧдтӧг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">reippaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бри да бра</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">repiämisäänellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">чаж</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">riittävän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">доза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">riittävän paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">тырмымӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">riittävästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">здӧвӧль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">rumasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мисьтӧма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">räiskis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">брызь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">saatavilla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кивыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sadasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">сёысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">salaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">гусьӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">гусьӧник</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">samalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧтпыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">samalla tavalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сідзжӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтмоза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sataa kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">сёысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">selkeästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ладӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">selko(sen)selällään (ikkuna, ovi)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гатш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">selkosen selällään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гурйыв восьса</t>
+
+        <t Contlex="ADV_" pos="Adv">дзирйыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">selällään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гатш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sen jälkeen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэсся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sen verran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сымда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">seuraavana päivänä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мӧд луннас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэн</t>
+
+        <t Contlex="ADV_" pos="Adv">сэні</t>
+
+        <t Contlex="ADV_" pos="Adv">сэтӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sieltä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэсянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siihen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэтчӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siihen aikaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэкся кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siinä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэн</t>
+
+        <t Contlex="ADV_" pos="Adv">сэні</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siitä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэтысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siivillä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бордйыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sikin sokin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сорнад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">silloin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэк</t>
+
+        <t Contlex="ADV_" pos="Adv">сэки</t>
+
+        <t Contlex="ADV_" pos="Adv">сэкся кадӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sillä tavalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэтшӧма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">silmännähtävästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">явӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sinne</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэтчӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sinne saakka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэтчӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">siten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сідзи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sitten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрсі</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрти</t>
+
+        <t Contlex="ADV_" pos="Adv">сэсся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sitä kautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sivulle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">боквыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sivuttain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бокала</t>
+
+        <t Contlex="ADV_" pos="Adv">дорыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sivuttain (istua)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бокшӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">sopivasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">буретш</t>
+
+        <t Contlex="ADV_" pos="Adv">буриндзика</t>
+
+        <t Contlex="ADV_" pos="Adv">буриника</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suihkuna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзольӧбӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suinpäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">журӧбӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suoraan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">веськыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">surullisena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">шогпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suunnilleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гӧгӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">ылӧс</t>
+
+        <t Contlex="ADV_" pos="Adv">ылӧсас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suuttuneena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧзмӧмпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syksyllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">арнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syksyn aikana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">арбыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syrjäsilmällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syvällisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_EGR" pos="Adv">пыдісянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syvällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_INE" pos="Adv">пыдын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syytön</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">безвиннӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">säälien</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">жальпырысь</t>
+
+        <t Contlex="ADV_" pos="Adv">жалядзза</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">säälimättä lainkaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нем жалиттӧг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">säälittävästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">жальпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">taakse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">taas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бара</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">taemmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрасджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">taempana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрасджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tahdonvastaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кийывсӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">takaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрвыв</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрсӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">takaperin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрвыв</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧрӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">takaperin??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гатш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">talvella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧвнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">talvisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧвъяснас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tarpeeksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧвӧль</t>
+
+        <t Contlex="ADV_" pos="Adv">здӧвӧль</t>
+
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">тырмымӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tasa-arvoisesti??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tasaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дув</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tavallisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">векджык</t>
+
+        <t Contlex="ADV_" pos="Adv">пырджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tieten-tahtoen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нарошнӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tietenkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дерт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tietysti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дерт</t>
+
+        <t Contlex="ADV_" pos="Adv">тӧдӧмысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">todella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">забыль</t>
+
+        <t Contlex="ADV_" pos="Adv">зэв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toinen olkapää edellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toisen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мӧд пӧв</t>
+
+        <t Contlex="ITER_" pos="Adv">мӧдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мӧд ног</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toisinaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">корсюрӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">мукӧддырйи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toissapäivänä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войдӧрлун</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">toiste</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">мӧдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">totta kai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дерт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tulisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пӧся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tulla takaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tulla täysi-ikäiseksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">арлыдвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tuntuvasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">тӧдчымӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tuolla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">сэн</t>
+
+        <t Contlex="ADV_" pos="Adv">сэні</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">turhaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">весь</t>
+
+        <t Contlex="ADV-IS_ILL" pos="Adv">весьшӧрӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tuskin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧдва</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧдвакӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tähän saakka (ajasta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧнӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tällä kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">час</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tänne</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">татчӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tännepäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">талань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tänä aamuna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тасыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tänä iltana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тарыт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tänä vuonna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">таво</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tänään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">талун</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">täsmälleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">буретш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tässä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тан</t>
+
+        <t Contlex="ADV_" pos="Adv">тані</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tästä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">татысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tätä kautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">таті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tätä tietä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">таті</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">täysin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">брӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">täällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тан</t>
+
+        <t Contlex="ADV_" pos="Adv">тані</t>
+
+        <t Contlex="ADV_" pos="Adv">татӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">täältä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">татысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">täältäpäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тасянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ulkoa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">наизусьт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">usein</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тшӧкыда</t>
+
+        <t Contlex="ADV_" pos="Adv">частӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">uudelleen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧр</t>
+
+        <t Contlex="ADV_" pos="Adv">мӧд пӧв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">uudestaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бара</t>
+
+        <t Contlex="ADV_" pos="Adv">бӧр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">uusi ??paikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-LA" pos="Adv">выльлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vahvasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зумыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vaikkakin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дарӧм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vaikuttaen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">тӧдчымӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">куш</t>
+
+        <t Contlex="ADV_" pos="Adv">сӧмын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vaiti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-MON" pos="Adv">ланьтӧмӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">чӧла</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vakaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">зумыда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">valo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзар</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">valtaosa paikoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-LA" pos="Adv">кызвынлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">valtaosaltaan??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кызвыйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">valtavasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бугри</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vanhastaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_EGR" pos="Adv">важысянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vapaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ас шодйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">varovaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бережнӧя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">varovasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">видзшысьӧмӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">varsinkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">торйӧн нин</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vartavasten tehty</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нарӧшнӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vasta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нин</t>
+
+        <t Contlex="ADV_" pos="Adv">сӧмын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vasta sitten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вӧлисти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">паныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastahakoisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">кийывсӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastahakoisesti (antaa)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">жальпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastakarvaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гӧн паныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastapäivään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">шонді паныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastavirtaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">катчӧс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastoin tahtoaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">жальпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vauhdikkaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">журӧбӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">venäjäksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рочӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">venäläisittäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">рочӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viaton</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">безвиннӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vielä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ещӧ</t>
+
+        <t Contlex="AdvTemp" pos="Adv">нӧшта</t>
+
+        <t Contlex="ADV_" pos="Adv">нӧшта на</t>
+
+        <t Contlex="ADV_" pos="Adv">эсся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vielä kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мӧд пӧв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vihaisena</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дӧзмӧмпырысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vihaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">скӧра</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vihdoin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вӧлись</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vihdoinkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧрвылас</t>
+
+        <t Contlex="AdvTemp" pos="Adv">медбӧрти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viidesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">витысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viime vuonna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">колян воӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viime yönä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тавой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viimeisen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">медбӧръяысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viimeksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧръяысьсӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viipymättä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_GER-TOG" pos="Adv">нюжмасьтӧг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viisaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧлкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viisi kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">витысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">virtana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дзольӧбӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vuorokaudessa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">суткинас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vähemmän (määrittelee adjektiiveja)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Ad-A">абуджык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vähintään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">медэтшасӧ</t>
+
+        <t Contlex="ADV_" pos="Adv">этша вылӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vähitellen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">вочасӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">надзӧникӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vähän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">неуна</t>
+
+        <t Contlex="ADV_" pos="Adv">этшаника</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">väkisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мырдӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">väsyksiin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-VTER" pos="Adv">мудзтӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">väsymykseen saakka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-VTER" pos="Adv">мудзтӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhdellä puolelle nojaten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">дорыньӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhdessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧтвылысь</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтлаын</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтув</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhtaikaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧтпыр</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтпырйӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhteensä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ставнас</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтлаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhtäkkiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">друг</t>
+
+        <t Contlex="ADV_" pos="Adv">другӧн</t>
+
+        <t Contlex="ADV_" pos="Adv">ӧтпыр друг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">век</t>
+
+        <t Contlex="ADV_" pos="Adv">пыр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yhä vielä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пыр на</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yksi paikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT-LA" pos="Adv">ӧтилаын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yksin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">ӧткӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yksinkertaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">прӧстӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yksinkertaisesti??</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">прӧстӧйиника</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yksinomaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">чиг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylhäällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-SPAT" pos="Adv">вылын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylhäältä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV-IS_EGR" pos="Adv">вылісянь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylihuomenna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">аскомысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylikuormatuin takakansin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧжвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylikuormatuin takaosin (reestä, autosta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бӧжвыв</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ympäri</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">пасьтала</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yöksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войколӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yöllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войнас</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yötä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войколӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">älykkäästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧлкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">äsken</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧндзи</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">äskettäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">неважӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">äänekkäästi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">гораа</t>
+
+        <t Contlex="ADV_" pos="Adv">горӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">öisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">войяснас</t>
+      </tg>
+    </mg>
+  </e>
+</r>
