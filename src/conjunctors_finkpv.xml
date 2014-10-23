@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">либӧ</t>
 
         <t Contlex="CC_" pos="Conj">ни</t>
@@ -48,7 +48,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">либӧ</t>
       </tg>
     </mg>
@@ -64,7 +64,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">а</t>
       </tg>
     </mg>
@@ -80,7 +80,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">медым</t>
 
         <t Contlex="CONJ_" pos="CS">мый</t>
@@ -98,7 +98,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">а</t>
 
         <t Contlex="CC_" pos="CC">да</t>
@@ -118,7 +118,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">кӧ</t>
       </tg>
     </mg>
@@ -134,7 +134,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">кӧ</t>
 
         <t Contlex="CS_" pos="CS">кӧть</t>
@@ -152,7 +152,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">мед</t>
 
         <t Contlex="CS_" pos="CS">медым</t>
@@ -170,7 +170,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">а</t>
 
         <t Contlex="CONJ_" pos="Conj">за</t>
@@ -188,7 +188,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">но</t>
       </tg>
     </mg>
@@ -204,7 +204,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">и</t>
       </tg>
     </mg>
@@ -220,7 +220,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CONJ_" pos="Conj">сідзкӧ</t>
       </tg>
     </mg>
@@ -236,7 +236,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">сы понда мый</t>
       </tg>
     </mg>
@@ -252,7 +252,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CONJ_" pos="Conj">сідзкӧ</t>
       </tg>
     </mg>
@@ -268,7 +268,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">сы понда мый</t>
       </tg>
     </mg>
@@ -284,7 +284,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">сы вӧсна мый</t>
 
         <t Contlex="CONJ_" pos="Conj">сідзкӧ</t>
@@ -302,7 +302,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">либӧ</t>
       </tg>
     </mg>
@@ -318,7 +318,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">кӧть</t>
       </tg>
     </mg>
@@ -334,7 +334,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CONJ_" pos="Conj">та вӧсна</t>
       </tg>
     </mg>
@@ -350,7 +350,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CONJ_" pos="CC">но и</t>
       </tg>
     </mg>
@@ -366,7 +366,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="CC">али</t>
       </tg>
     </mg>
@@ -382,7 +382,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">кӧ</t>
 
         <t Contlex="CS_" pos="CS">кӧть</t>
@@ -400,7 +400,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CS_" pos="CS">кӧть</t>
       </tg>
     </mg>
@@ -416,7 +416,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CC_" pos="Conj">жӧ</t>
       </tg>
     </mg>

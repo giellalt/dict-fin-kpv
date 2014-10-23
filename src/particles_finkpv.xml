@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">ӧд</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">жӧ</t>
 
         <t Contlex="PCLE_" pos="Pcle">нӧ</t>
@@ -64,7 +64,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">ли</t>
       </tg>
     </mg>
@@ -80,7 +80,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дай</t>
 
         <t Contlex="PCLE_" pos="Pcle">мися</t>
@@ -100,7 +100,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">эськӧ</t>
       </tg>
     </mg>
@@ -116,10 +116,30 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дзик</t>
 
         <t Contlex="PCLE_" pos="Pcle">дзикӧдз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ammuu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <tCtn>
+          <t Contlex="ONOM_" pos="Pcle">бау</t>
+
+          <re>lehmän ääntely</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -134,7 +154,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">давай</t>
       </tg>
     </mg>
@@ -150,7 +170,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">давай</t>
       </tg>
     </mg>
@@ -166,7 +186,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">буди</t>
 
         <t Contlex="PCLE_" pos="Pcle">будичи</t>
@@ -186,7 +206,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <tCtn>
           <t Contlex="EndNeg" pos="Pcle">абу</t>
 
@@ -206,7 +226,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="EndNeg" pos="Pcle">абу</t>
       </tg>
     </mg>
@@ -222,7 +242,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">нисьӧ</t>
       </tg>
     </mg>
@@ -238,7 +258,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">муртса</t>
       </tg>
     </mg>
@@ -254,7 +274,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">муртса</t>
       </tg>
     </mg>
@@ -270,8 +290,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ONOM_" pos="Pcle">дзиз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ikään kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="PCLE_" pos="Pcle">быттьӧ</t>
       </tg>
     </mg>
   </e>
@@ -286,7 +322,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">буди</t>
 
         <t Contlex="PCLE_" pos="Pcle">будичи</t>
@@ -304,7 +340,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">тшӧтш</t>
       </tg>
     </mg>
@@ -320,7 +356,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дзикӧдз</t>
       </tg>
     </mg>
@@ -336,7 +372,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">муртса</t>
       </tg>
     </mg>
@@ -352,7 +388,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">бара</t>
 
         <t Contlex="PCLE_" pos="Pcle">бара</t>
@@ -370,7 +406,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дай</t>
       </tg>
     </mg>
@@ -386,7 +422,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">бара</t>
 
         <t Contlex="PCLE_" pos="Pcle">бара</t>
@@ -404,7 +440,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ONOM_" pos="Pcle">тарк</t>
       </tg>
     </mg>
@@ -420,7 +456,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">век жӧ</t>
       </tg>
     </mg>
@@ -436,7 +472,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">быттьӧкӧ</t>
 
         <t Contlex="PCLE_" pos="Pcle">пӧ</t>
@@ -454,7 +490,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">мися</t>
       </tg>
     </mg>
@@ -462,7 +498,7 @@
 
   <e>
     <lg>
-      <l pos="Pcle">molskahdus</l>
+      <l pos="Descr">molskis</l>
 
       <stg>
         <st/>
@@ -470,8 +506,10 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
-        <t Contlex="ONOM_" pos="Pcle">быз</t>
+      <tg xml:lang="kpv">
+        <t Contlex="ONOM_" pos="Descr">бультік</t>
+
+        <t Contlex="ONOM_" pos="Descr">быз</t>
       </tg>
     </mg>
   </e>
@@ -486,7 +524,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">пӧ</t>
       </tg>
     </mg>
@@ -502,7 +540,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">тшӧтш</t>
       </tg>
     </mg>
@@ -518,28 +556,8 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">зато</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">muu</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="">
-        <tCtn>
-          <t Contlex="ONOM_" pos="Pcle">бау</t>
-
-          <re>mitä lehmä sanoo</re>
-        </tCtn>
       </tg>
     </mg>
   </e>
@@ -554,8 +572,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">тшӧтш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">mäiskis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ONOM_" pos="Descr">бут</t>
       </tg>
     </mg>
   </e>
@@ -570,24 +604,8 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">niinkuin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="">
-        <t Contlex="PCLE_" pos="Pcle">быттьӧ</t>
       </tg>
     </mg>
   </e>
@@ -602,7 +620,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">со</t>
       </tg>
     </mg>
@@ -618,7 +636,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">мися</t>
       </tg>
     </mg>
@@ -634,7 +652,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">мися</t>
       </tg>
     </mg>
@@ -650,7 +668,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">вай</t>
       </tg>
     </mg>
@@ -666,7 +684,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">быттьӧкӧ</t>
       </tg>
     </mg>
@@ -682,7 +700,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">чӧв</t>
       </tg>
     </mg>
@@ -698,7 +716,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">быть</t>
       </tg>
     </mg>
@@ -714,7 +732,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">вӧлӧмкӧ</t>
       </tg>
     </mg>
@@ -722,7 +740,7 @@
 
   <e>
     <lg>
-      <l pos="Pcle">polskis</l>
+      <l pos="Descr">pam</l>
 
       <stg>
         <st/>
@@ -730,8 +748,40 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
-        <t Contlex="ONOM_" pos="Pcle">бультік</t>
+      <tg xml:lang="kpv">
+        <t Contlex="ONOM_" pos="Descr">бут</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">plätsis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ONOM_" pos="Descr">быз</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">polskis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ONOM_" pos="Descr">бультік</t>
       </tg>
     </mg>
   </e>
@@ -746,7 +796,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">со</t>
       </tg>
     </mg>
@@ -762,7 +812,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">вӧлӧмкӧ</t>
       </tg>
     </mg>
@@ -778,7 +828,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ONOM_" pos="Pcle">дзиз</t>
       </tg>
     </mg>
@@ -794,7 +844,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">бара</t>
       </tg>
     </mg>
@@ -810,7 +860,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">муртса</t>
       </tg>
     </mg>
@@ -826,7 +876,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">то</t>
       </tg>
     </mg>
@@ -842,7 +892,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <tCtn>
           <t Contlex="PCLE_" pos="Pcle">а</t>
 
@@ -862,7 +912,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">кӧть еськӧ</t>
 
         <t Contlex="PCLE_" pos="Pcle">эськӧ</t>
@@ -880,7 +930,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">кӧть еськӧ</t>
       </tg>
     </mg>
@@ -896,7 +946,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дзик</t>
       </tg>
     </mg>
@@ -912,7 +962,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">буди</t>
 
         <t Contlex="PCLE_" pos="Pcle">будичи</t>
@@ -930,7 +980,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">на</t>
       </tg>
     </mg>
@@ -946,7 +996,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">муртса</t>
       </tg>
     </mg>
@@ -962,7 +1012,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">тшӧтш</t>
       </tg>
     </mg>
@@ -978,7 +1028,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PCLE_" pos="Pcle">дзикӧдз</t>
       </tg>
     </mg>

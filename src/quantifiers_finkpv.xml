@@ -30,8 +30,72 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">триллион</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">enemmän kuin muilla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">медуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">eniten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">медуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensi kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Adv">первойысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ensiksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Adv">первойысь</t>
       </tg>
     </mg>
   </e>
@@ -46,10 +110,106 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ORD" pos="Num">первой</t>
 
         <t Contlex="ORD" pos="Num">первӧй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">he kaikki kuusi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтнанныс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">he kaikki seitsemän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">сизимнанныс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">he kaikki viisi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">витнанныс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">hirveän paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">бугри</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">hiukan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">неуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">hurjan paljon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">бугри</t>
       </tg>
     </mg>
   </e>
@@ -64,7 +224,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кӧкъямыс</t>
       </tg>
     </mg>
@@ -80,7 +240,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кӧкъямысдас</t>
       </tg>
     </mg>
@@ -96,8 +256,234 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кӧкъямыссё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksantoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас кӧкъямыс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кӧкъямысӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksaskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кӧкъямысдасӧд</t>
+
+        <t Contlex="" pos="Num">миллионӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksassadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кӧкъямыссёӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Ord">kahdes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кыкӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кызьӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kahdessadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кыксёӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kahdestaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kahdesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">кыкысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaikki kuusi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтнан</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaikki neljä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">нёльнан</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaikki sata</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">сёнан</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaikki seitsemän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">сизимнан</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaikki viisi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">витнан</t>
       </tg>
     </mg>
   </e>
@@ -112,8 +498,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaksi kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">кыкысь</t>
       </tg>
     </mg>
   </e>
@@ -128,8 +530,56 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кызь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaksikymmentä kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">кызьысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksikymmentäyksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">кызь ӧти</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaksin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкӧн</t>
       </tg>
     </mg>
   </e>
@@ -144,8 +594,40 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">кыксё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kaksisataa kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">кыксёысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас кык</t>
       </tg>
     </mg>
   </e>
@@ -160,8 +642,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ADV_" pos="Qnt">ӧтиысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kolmannen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">коймӧдысь</t>
       </tg>
     </mg>
   </e>
@@ -176,10 +674,42 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ORD" pos="Num">коимӧд</t>
 
         <t Contlex="ORD" pos="Num">коймӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmaskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">комынӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmassadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">куимсёӧд</t>
       </tg>
     </mg>
   </e>
@@ -194,8 +724,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="CARD" pos="Num">куим</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kolme kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">куимысь</t>
       </tg>
     </mg>
   </e>
@@ -210,7 +756,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">комын</t>
       </tg>
     </mg>
@@ -226,8 +772,120 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">куимсё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kolmesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="CARD" pos="Qnt">куимысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmetoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас куим</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kolmisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">куимӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kolmistaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">куимӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kuudennen kerran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтӧдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kuudestaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kuusdessadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">квайтсёӧд</t>
       </tg>
     </mg>
   </e>
@@ -242,7 +900,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">квайт</t>
       </tg>
     </mg>
@@ -258,7 +916,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">квайтымын</t>
       </tg>
     </mg>
@@ -274,8 +932,40 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">квайтсё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kuusitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас квайт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kuutonen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="Qnt">квайта</t>
       </tg>
     </mg>
   </e>
@@ -290,7 +980,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">дас</t>
       </tg>
     </mg>
@@ -298,7 +988,7 @@
 
   <e>
     <lg>
-      <l pos="Num">miljaardi</l>
+      <l pos="Qnt">kymmenen kertaa</l>
 
       <stg>
         <st/>
@@ -306,8 +996,184 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
+        <t Contlex="NUM-CARD-ITER" pos="Qnt">дасысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">дасӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">kymmenesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="NUM-CARD-ITER" pos="Qnt">дасысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kymmenikkö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">даса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kymppi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">даса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">me kaikki kuusi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтнанным</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">me kaikki seitsemän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">сизимнанным</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">me kaikki viisi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">витнанным</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">me kaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкнанным</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">me molemmat</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкнанным</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">miljardi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">миллиард</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">miljardis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">миллиардӧд</t>
       </tg>
     </mg>
   </e>
@@ -322,7 +1188,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">дзурс</t>
 
         <t Contlex="QNT-CARD_" pos="Num">миллион</t>
@@ -340,8 +1206,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="COLL" pos="Qnt">кыкнан</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">molemmilla kerroilla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкнанысь</t>
       </tg>
     </mg>
   </e>
@@ -356,7 +1238,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT_" pos="Qnt">уна</t>
       </tg>
     </mg>
@@ -372,8 +1254,40 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT_" pos="Qnt">ӧткымын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">nelisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">нёльӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">nelistään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">нёльӧн</t>
       </tg>
     </mg>
   </e>
@@ -388,7 +1302,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">нёль</t>
       </tg>
     </mg>
@@ -404,8 +1318,24 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">нелямын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">neljäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">нёльӧд</t>
       </tg>
     </mg>
   </e>
@@ -420,8 +1350,72 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">нёльсё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">neljäskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">нелямынӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">neljässadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">нёльсёӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">neljästään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">нёльӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">neljätoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас нёль</t>
       </tg>
     </mg>
   </e>
@@ -436,8 +1430,72 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT_" pos="Qnt">уна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">pari kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">пӧв-мӧдысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">parittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="NUM-IS_DISTR" pos="Qnt">кыкӧн-кыкӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">runsaasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">уна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">сёӧд</t>
       </tg>
     </mg>
   </e>
@@ -452,7 +1510,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ӧти</t>
 
         <t Contlex="QNT-CARD_" pos="Num">ӧтик</t>
@@ -470,8 +1528,56 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">сё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">sata neljäkymmentä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">сё нелямын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">satanen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="Qnt">сёа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">seitsemäinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">сизима</t>
       </tg>
     </mg>
   </e>
@@ -486,7 +1592,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">сизим</t>
       </tg>
     </mg>
@@ -502,7 +1608,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">сизимдас</t>
       </tg>
     </mg>
@@ -518,8 +1624,168 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">сизимсё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">seitsemäntoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас сизим</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">seitsemäskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">сизимдасӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">seitsemässadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">сизимсёӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">seitsikko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">сизима</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">suunnaton määrä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">бугри</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">te kaikki kuusi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">квайтнанныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">te kaikki seitsemän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">сизимнанныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">te kaikki viisi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">витнанныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">te kaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкнанныд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">te molemmat</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Qnt">кыкнанныд</t>
       </tg>
     </mg>
   </e>
@@ -534,10 +1800,42 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ORD" pos="Num">мӧд</t>
 
         <t Contlex="ORD" pos="Num">мӧдӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Ord">toinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">кыкӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">tuhannes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">тысячаӧд</t>
       </tg>
     </mg>
   </e>
@@ -552,7 +1850,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">сюрс</t>
 
         <t Contlex="QNT-CARD_" pos="Num">тысяча</t>
@@ -562,7 +1860,7 @@
 
   <e>
     <lg>
-      <l pos="Qnt">useampi</l>
+      <l pos="Qnt">valtavan paljon</l>
 
       <stg>
         <st/>
@@ -570,8 +1868,8 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
-        <t Contlex="QNT_" pos="Qnt">уна</t>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">бугри</t>
       </tg>
     </mg>
   </e>
@@ -586,8 +1884,56 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ORD" pos="Num">витӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viideskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">ветымынӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viidessadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">витсёӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">viidestään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">витӧн</t>
       </tg>
     </mg>
   </e>
@@ -602,7 +1948,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT_" pos="Num">вит</t>
       </tg>
     </mg>
@@ -618,8 +1964,40 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ветымын</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisikymmentäkaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">ветымын кык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">viisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">витӧн</t>
       </tg>
     </mg>
   </e>
@@ -634,8 +2012,104 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">витсё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">viisisataa kertaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="NUM-CARD-ITER" pos="Qnt">витсёысь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisisatanen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="Qnt">витсёа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">viisistään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">витӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас вит</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">vähemmän kuin muilla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">медэтша</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">vähiten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">медэтша</t>
       </tg>
     </mg>
   </e>
@@ -650,8 +2124,42 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
+        <t Contlex="QNT_" pos="Qnt">неуна</t>
+
         <t Contlex="QNT_" pos="Qnt">этша</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">yhdeksikkö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">ӧкмыса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">yhdeksäinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Noun1" pos="N">ӧкмыса</t>
       </tg>
     </mg>
   </e>
@@ -666,7 +2174,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ӧкмыс</t>
       </tg>
     </mg>
@@ -682,7 +2190,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ӧкмысдас</t>
       </tg>
     </mg>
@@ -698,8 +2206,72 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ӧкмыссё</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksäntoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас ӧкмыс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">ӧкмысӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksäskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">ӧкмысдасӧд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksässadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="" pos="Num">ӧкмыссёӧд</t>
       </tg>
     </mg>
   </e>
@@ -714,7 +2286,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="QNT-CARD_" pos="Num">ӧти</t>
 
         <t Contlex="QNT-CARD_" pos="Num">ӧтик</t>
@@ -732,8 +2304,26 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="NumTag" pos="Prop">ӧт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yksitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="QNT-CARD_" pos="Num">дас ӧти</t>
+
+        <t Contlex="QNT-CARD_" pos="Num">дас ӧтик</t>
       </tg>
     </mg>
   </e>

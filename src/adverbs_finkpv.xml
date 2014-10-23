@@ -22,6 +22,86 @@
 
   <e>
     <lg>
+      <l pos="Adv">-a päin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">нырӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">-hko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">вель</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">-in: -imm-</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="Ad-ATAG" pos="Adv">медся</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">-in: -imma-</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">мед</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">-n vieressä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">орччӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">aamuisin</l>
 
       <stg>
@@ -1120,6 +1200,22 @@
 
   <e>
     <lg>
+      <l pos="Adv">hellävaroin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">бережнӧя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">helposti</l>
 
       <stg>
@@ -1178,6 +1274,8 @@
     <mg>
       <tg xml:lang="kpv">
         <t Contlex="ADV_" pos="Adv">неуна</t>
+
+        <t Contlex="ADV_" pos="Adv">тӧкӧтьӧ</t>
       </tg>
     </mg>
   </e>
@@ -1252,6 +1350,38 @@
         <t Contlex="ADV_" pos="Adv">ньӧжйӧ</t>
 
         <t Contlex="ADV_" pos="Adv">ньӧжйӧн</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hiukan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧкӧтьӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">hivenen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧкӧтьӧ</t>
       </tg>
     </mg>
   </e>
@@ -3312,6 +3442,8 @@
         <t Contlex="ADV-IS_ILL" pos="Adv">матӧ</t>
 
         <t Contlex="ADV_" pos="Adv">пӧшти</t>
+
+        <t Contlex="ADV_" pos="Adv">тӧкӧтьӧ</t>
       </tg>
     </mg>
   </e>
@@ -3622,6 +3754,8 @@
     <mg>
       <tg xml:lang="kpv">
         <t Contlex="ADV_" pos="Adv">лӧсьыда</t>
+
+        <t Contlex="ADV_" pos="Adv">удобнӧ</t>
       </tg>
     </mg>
   </e>
@@ -5196,6 +5330,8 @@
         <t Contlex="ADV_" pos="Adv">буриндзика</t>
 
         <t Contlex="ADV_" pos="Adv">буриника</t>
+
+        <t Contlex="ADV_" pos="Adv">удобнӧ</t>
       </tg>
     </mg>
   </e>
@@ -5382,7 +5518,23 @@
 
   <e>
     <lg>
-      <l pos="Adv">syytön</l>
+      <l pos="Adv">syyttä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">безвиннӧ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">syyttömästi</l>
 
       <stg>
         <st/>
@@ -5979,6 +6131,8 @@
 
     <mg>
       <tg xml:lang="kpv">
+        <t Contlex="ADV_" pos="Adv">тӧкӧтьӧ</t>
+
         <t Contlex="ADV_" pos="Adv">ӧдва</t>
 
         <t Contlex="ADV_" pos="Adv">ӧдвакӧ</t>
@@ -6276,6 +6430,22 @@
     <mg>
       <tg xml:lang="kpv">
         <t Contlex="ADV_" pos="Adv">наизусьт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">useasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="ITER_" pos="Adv">унаысь</t>
       </tg>
     </mg>
   </e>
@@ -6806,7 +6976,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">viaton</l>
+      <l pos="Adv">viattomasti</l>
 
       <stg>
         <st/>
@@ -7451,7 +7621,7 @@
 
     <mg>
       <tg xml:lang="kpv">
-        <t Contlex="ADV_" pos="Adv">аскомысь</t>
+        <t Contlex="ADV-TEMP_" pos="Adv">аскомысь</t>
       </tg>
     </mg>
   </e>

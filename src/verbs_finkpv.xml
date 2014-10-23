@@ -20436,6 +20436,22 @@
 
   <e>
     <lg>
+      <l pos="V">mennä mäkeä ylös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="V_ШУНЫ" pos="V">катны</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">mennä naimisiin (miehestä)</l>
 
       <stg>
@@ -20648,7 +20664,7 @@
 
   <e>
     <lg>
-      <l pos="V">mennä ylävirtaan (myös mäkeä ylös</l>
+      <l pos="V">mennä ylävirtaan</l>
 
       <stg>
         <st/>
@@ -20657,7 +20673,11 @@
 
     <mg>
       <tg xml:lang="kpv">
-        <t Contlex="V_ШУНЫ" pos="V">катны</t>
+        <tCtn>
+          <t Contlex="V_ШУНЫ" pos="V">катны</t>
+
+          <re>ylä-, vastavirta on primääri tässä suhteessa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24420,7 +24440,7 @@
 
   <e>
     <lg>
-      <l pos="V">olla kiimana (lehmästä)</l>
+      <l pos="V">olla kiimassa</l>
 
       <stg>
         <st/>
@@ -24429,7 +24449,11 @@
 
     <mg>
       <tg xml:lang="kpv">
-        <t Contlex="V_ШУНЫ" pos="V">канавны</t>
+        <tCtn>
+          <t Contlex="V_ШУНЫ" pos="V">канавны</t>
+
+          <re>lehmästä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -48976,22 +49000,6 @@
     <mg>
       <tg xml:lang="kpv">
         <t Contlex="V_ШУНЫ" pos="V">доршасьны</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">ylä-, vastavirta on primääri tässä suhteessa)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="kpv">
-        <t Contlex="V_ШУНЫ" pos="V">катны</t>
       </tg>
     </mg>
   </e>

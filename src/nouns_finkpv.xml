@@ -22,6 +22,70 @@
 
   <e>
     <lg>
+      <l pos="N">-mitan verran</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">вомлӧс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-mitta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">вомлӧс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-tarvikkeet</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">кыйсян кӧлуй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-vuotias</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">арӧс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">AIDS</l>
 
       <stg>
@@ -4177,6 +4241,22 @@
     <mg>
       <tg xml:lang="kpv">
         <t Contlex="N_" pos="N">минархстройэнерго</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">arkku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">горт</t>
       </tg>
     </mg>
   </e>
@@ -69719,7 +69799,7 @@
 
   <e>
     <lg>
-      <l pos="N">narskuvat hampaat</l>
+      <l pos="N">narskuvat hampaat??</l>
 
       <stg>
         <st/>
@@ -97670,6 +97750,22 @@
         <t Contlex="N_" pos="N">шой</t>
 
         <t Contlex="N_" pos="N">яй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ruumisarkku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">горт</t>
       </tg>
     </mg>
   </e>

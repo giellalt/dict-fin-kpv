@@ -22,7 +22,7 @@
 
   <e>
     <lg>
-      <l pos="Pron">ei kertaakaan</l>
+      <l pos="Adv">ei kertaakaan</l>
 
       <stg>
         <st/>
@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">ньӧти</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-NEG-HUM" pos="Pron">некод</t>
       </tg>
     </mg>
@@ -62,7 +62,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-NEG-HUM" pos="Pron">некод</t>
       </tg>
     </mg>
@@ -78,7 +78,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">ньӧти</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-NEG" pos="Pron">некытчӧ</t>
 
         <t Contlex="PRON-NEG" pos="Pron">некыті</t>
@@ -112,7 +112,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-NEG" pos="Pron">некысь</t>
 
         <t Contlex="PRON-NEG" pos="Pron">некытысь</t>
@@ -130,7 +130,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-NEG" pos="Pron">нем</t>
       </tg>
     </mg>
@@ -146,7 +146,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">ньӧти</t>
       </tg>
     </mg>
@@ -162,7 +162,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-STAV" pos="Pron">став</t>
       </tg>
     </mg>
@@ -178,7 +178,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-COLL" pos="Pron">этшаӧн</t>
       </tg>
     </mg>
@@ -194,7 +194,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-NOM" pos="Pron">на</t>
 
         <t Contlex="PRON-PERS-PL3-NOM" pos="Pron">найӧ</t>
@@ -214,7 +214,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL3-NOM" pos="Pron">асьныс</t>
       </tg>
     </mg>
@@ -230,7 +230,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL3-GEN" pos="Pron">асланыс</t>
       </tg>
     </mg>
@@ -246,7 +246,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-ACC" pos="Pron">найӧс</t>
       </tg>
     </mg>
@@ -262,7 +262,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-ACC" pos="Pron">найӧс</t>
       </tg>
     </mg>
@@ -278,7 +278,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">неуна</t>
       </tg>
     </mg>
@@ -294,7 +294,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG3-NOM" pos="Pron">сы</t>
 
         <t Contlex="PRON-PERS-SG3-OBL" pos="Pron">сы</t>
@@ -316,7 +316,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG3-NOM" pos="Pron">ачыс</t>
       </tg>
     </mg>
@@ -332,7 +332,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG3-GEN" pos="Pron">аслас</t>
       </tg>
     </mg>
@@ -348,7 +348,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG3-ACC" pos="Pron">сійӧс</t>
       </tg>
     </mg>
@@ -364,7 +364,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">быд</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">быдся</t>
@@ -388,7 +388,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">быдся</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">быдсяма</t>
@@ -410,7 +410,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG-KO" pos="Pron">мыйкӧ</t>
 
         <t Contlex="PRONINDEFTAG" pos="Pron">мыйсюрӧ</t>
@@ -428,7 +428,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG-KO" pos="Pron">кодкӧ</t>
 
         <t Contlex="PRONINDEFTAG" pos="Pron">кодсюрӧ</t>
@@ -446,7 +446,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">мыйтакӧ</t>
       </tg>
     </mg>
@@ -462,7 +462,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="IS_PRON-INDEF-KO" pos="Pron">кутшӧмкӧ</t>
 
         <t Contlex="IS_PRON-INDEF-SJURO" pos="Pron">кутшӧмсюрӧ</t>
@@ -480,7 +480,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кытчӧкӧ</t>
       </tg>
     </mg>
@@ -496,7 +496,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REL" pos="Pron">кӧні</t>
       </tg>
     </mg>
@@ -512,7 +512,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кӧнкӧ</t>
       </tg>
     </mg>
@@ -528,7 +528,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REL" pos="Pron">кытысь</t>
       </tg>
     </mg>
@@ -544,7 +544,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кыськӧ</t>
 
         <t Contlex="PRONINDEFTAG" pos="Pron">кытыськӧ</t>
@@ -562,7 +562,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">мыйлакӧ</t>
       </tg>
     </mg>
@@ -578,7 +578,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кыськӧ</t>
       </tg>
     </mg>
@@ -594,7 +594,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG-KO" pos="Pron">мыйкӧ</t>
 
         <t Contlex="PRONINDEFTAG" pos="Pron">мыйсюрӧ</t>
@@ -612,7 +612,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONDEMTAG" pos="Pron">эта</t>
 
         <t Contlex="PRONDEMTAGSG-TA" pos="Pron">этайӧ</t>
@@ -632,7 +632,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">быдся</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">быдсяма</t>
@@ -650,7 +650,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-COLL" pos="Pron">быдсӧн</t>
 
         <t Contlex="PRONQ-STAV" pos="Pron">став</t>
@@ -674,7 +674,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_-PL" pos="Pron">кодъяс</t>
       </tg>
     </mg>
@@ -690,7 +690,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-STAV" pos="Pron">став</t>
       </tg>
     </mg>
@@ -706,7 +706,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кутшӧма</t>
       </tg>
     </mg>
@@ -722,7 +722,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кымын</t>
       </tg>
     </mg>
@@ -738,7 +738,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="INTERR-REL" pos="Pron">мыйта</t>
       </tg>
     </mg>
@@ -754,7 +754,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-INTER-HUM" pos="Pron">коді</t>
       </tg>
     </mg>
@@ -770,7 +770,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кодсюрӧ</t>
       </tg>
     </mg>
@@ -786,7 +786,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кодар</t>
       </tg>
     </mg>
@@ -802,7 +802,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REL" pos="Pron">кор</t>
       </tg>
     </mg>
@@ -818,7 +818,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Ter4INTERR-REL-INDEF" pos="Pron">кытчӧдз</t>
       </tg>
     </mg>
@@ -834,7 +834,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL1-NOM" pos="Pron">ми</t>
 
         <t Contlex="PRON-PERS-PL1-NOM" pos="Pron">мийӧ</t>
@@ -852,7 +852,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL1-NOM" pos="Pron">асьным</t>
       </tg>
     </mg>
@@ -868,7 +868,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL1-GEN" pos="Pron">асланым</t>
       </tg>
     </mg>
@@ -884,7 +884,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кытчӧ</t>
       </tg>
     </mg>
@@ -900,7 +900,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">мыйла</t>
       </tg>
     </mg>
@@ -916,7 +916,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кодар</t>
 
         <t Contlex="PRON-INTER-NONHUM" pos="Pron">мый</t>
@@ -934,7 +934,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">быдся</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">быдсяма</t>
@@ -954,7 +954,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кутшӧм</t>
       </tg>
     </mg>
@@ -970,10 +970,26 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кодыр</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">кор</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">milloinkahan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="PRON-QNT_" pos="Pron">корджык</t>
       </tg>
     </mg>
   </e>
@@ -988,7 +1004,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="INTERR-REL" pos="Pron">мыетш</t>
 
         <t Contlex="INTERR-REL" pos="Pron">мыйта</t>
@@ -1006,7 +1022,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кутшӧм</t>
       </tg>
     </mg>
@@ -1022,7 +1038,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="IS_PRON-INDEF-SJURO" pos="Pron">кутшӧмсюрӧ</t>
       </tg>
     </mg>
@@ -1038,7 +1054,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кытчӧ</t>
 
         <t Contlex="Ill4INTERR-REL-INDEF" pos="Pron">кытчӧ</t>
@@ -1056,7 +1072,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG1-GEN" pos="Pron">менам</t>
       </tg>
     </mg>
@@ -1072,7 +1088,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG1-DAT" pos="Pron">мем</t>
 
         <t Contlex="PRON_" pos="Pron">мен</t>
@@ -1092,7 +1108,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG1-ELA" pos="Pron">менсьым</t>
       </tg>
     </mg>
@@ -1108,7 +1124,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG1-GEN" pos="Pron">менам</t>
       </tg>
     </mg>
@@ -1124,7 +1140,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG1-GEN" pos="Pron">аслам</t>
       </tg>
     </mg>
@@ -1140,7 +1156,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG1-ACC" pos="Pron">ачымӧс</t>
       </tg>
     </mg>
@@ -1156,7 +1172,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG1-NOM" pos="Pron">ме</t>
       </tg>
     </mg>
@@ -1172,7 +1188,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG1-NOM" pos="Pron">ачым</t>
       </tg>
     </mg>
@@ -1188,7 +1204,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кытӧн</t>
 
         <t Contlex="PRON-REL" pos="Pron">кытӧні</t>
@@ -1208,7 +1224,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кысь</t>
 
         <t Contlex="PRON-QNT_" pos="Pron">кытысь</t>
@@ -1226,7 +1242,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кутшӧма</t>
       </tg>
     </mg>
@@ -1242,7 +1258,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">кыті</t>
       </tg>
     </mg>
@@ -1258,7 +1274,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">мыйсюрӧ</t>
       </tg>
     </mg>
@@ -1274,7 +1290,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-COLL" pos="Pron">унаӧн</t>
       </tg>
     </mg>
@@ -1290,7 +1306,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-MUKOD" pos="Pron">мукӧд</t>
       </tg>
     </mg>
@@ -1306,7 +1322,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONINDEFTAG" pos="Pron">кымынкӧ</t>
       </tg>
     </mg>
@@ -1322,7 +1338,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-NOM" pos="Pron">на</t>
 
         <t Contlex="PRON-PERS-PL3-NOM" pos="Pron">найӧ</t>
@@ -1344,7 +1360,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-ACC" pos="Pron">найӧс</t>
       </tg>
     </mg>
@@ -1360,7 +1376,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONDEMTAGPL" pos="Pron">эсійӧяс</t>
       </tg>
     </mg>
@@ -1376,7 +1392,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-PL3-NOM" pos="Pron">тайӧяс</t>
       </tg>
     </mg>
@@ -1392,7 +1408,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="EndRefl" pos="Pron">ас</t>
       </tg>
     </mg>
@@ -1408,7 +1424,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG3-NOM" pos="Pron">сійӧ</t>
       </tg>
     </mg>
@@ -1424,7 +1440,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG3-NOM" pos="Pron">ачыс</t>
       </tg>
     </mg>
@@ -1440,7 +1456,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG3-ACC" pos="Pron">сійӧс</t>
       </tg>
     </mg>
@@ -1456,7 +1472,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON_" pos="Pron">тэд</t>
 
         <t Contlex="PRON_" pos="Pron">тэн</t>
@@ -1476,7 +1492,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG2-ABL" pos="Pron">тэнсьыд</t>
       </tg>
     </mg>
@@ -1492,7 +1508,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG2-GEN" pos="Pron">тэнад</t>
       </tg>
     </mg>
@@ -1508,7 +1524,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG2-GEN" pos="Pron">аслад</t>
       </tg>
     </mg>
@@ -1524,7 +1540,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG2-NOM" pos="Pron">тэ</t>
       </tg>
     </mg>
@@ -1540,7 +1556,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-SG2-NOM" pos="Pron">ачыд</t>
       </tg>
     </mg>
@@ -1556,7 +1572,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">корджык</t>
       </tg>
     </mg>
@@ -1572,7 +1588,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL2-NOM" pos="Pron">асьныд</t>
       </tg>
     </mg>
@@ -1588,7 +1604,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-REFL-PL2-GEN" pos="Pron">асланыд</t>
       </tg>
     </mg>
@@ -1604,7 +1620,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">мӧдар</t>
 
         <tCtn>
@@ -1626,7 +1642,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-RECIPR" pos="Pron">ӧта-мӧд</t>
       </tg>
     </mg>
@@ -1642,7 +1658,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONDEMTAGSG-TA" pos="Pron">тайӧ</t>
 
         <t Contlex="PRONDEMTAG" pos="Pron">эсы</t>
@@ -1662,7 +1678,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONDEMTAG" pos="Pron">со</t>
       </tg>
     </mg>
@@ -1678,7 +1694,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-PERS-SG3-NOM" pos="Pron">тайӧ</t>
       </tg>
     </mg>
@@ -1694,7 +1710,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-STAV" pos="Pron">став</t>
       </tg>
     </mg>
@@ -1710,7 +1726,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRONQ-COLL" pos="Pron">унаӧн</t>
       </tg>
     </mg>
@@ -1726,7 +1742,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PRON-QNT_" pos="Pron">неуна</t>
       </tg>
     </mg>
