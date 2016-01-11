@@ -30,7 +30,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Азия</t>
       </tg>
     </mg>
@@ -46,7 +46,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Абхазия</t>
       </tg>
     </mg>
@@ -62,7 +62,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Абраам</t>
       </tg>
     </mg>
@@ -78,7 +78,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Африка</t>
       </tg>
     </mg>
@@ -94,7 +94,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Агрикола</t>
       </tg>
     </mg>
@@ -110,7 +110,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Аланды</t>
 
         <t Contlex="PROP-PLC" pos="N">Аланды ді чукӧр</t>
@@ -130,7 +130,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Албания</t>
       </tg>
     </mg>
@@ -146,7 +146,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Ӧльӧксан</t>
       </tg>
     </mg>
@@ -162,7 +162,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Александр</t>
       </tg>
     </mg>
@@ -178,7 +178,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ACRON" pos="N">АӦШ</t>
       </tg>
     </mg>
@@ -194,7 +194,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Америкаса Ӧтувтчӧм Штатъяс</t>
 
         <t Contlex="ACRON-F" pos="N">США</t>
@@ -212,7 +212,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Америка</t>
       </tg>
     </mg>
@@ -228,7 +228,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-FEM" pos="N">Анастасия</t>
       </tg>
     </mg>
@@ -244,7 +244,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Австралия</t>
       </tg>
     </mg>
@@ -260,7 +260,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Прибалтика</t>
       </tg>
     </mg>
@@ -276,7 +276,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Балтия</t>
       </tg>
     </mg>
@@ -292,7 +292,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Бияр</t>
       </tg>
     </mg>
@@ -308,7 +308,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Боливия</t>
       </tg>
     </mg>
@@ -324,7 +324,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Бразилия</t>
       </tg>
     </mg>
@@ -340,7 +340,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Болгария</t>
       </tg>
     </mg>
@@ -356,7 +356,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Египет</t>
       </tg>
     </mg>
@@ -372,7 +372,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Англия</t>
       </tg>
     </mg>
@@ -388,7 +388,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Лунвыв Африка</t>
       </tg>
     </mg>
@@ -404,7 +404,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Лунвыв Емен</t>
       </tg>
     </mg>
@@ -420,7 +420,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Европа</t>
       </tg>
     </mg>
@@ -436,7 +436,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Гольфстрим</t>
       </tg>
     </mg>
@@ -452,7 +452,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Хрущёв</t>
       </tg>
     </mg>
@@ -468,7 +468,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ACRON" pos="N">СНГ</t>
       </tg>
     </mg>
@@ -484,7 +484,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ингерманландия</t>
       </tg>
     </mg>
@@ -500,7 +500,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Инта</t>
       </tg>
     </mg>
@@ -516,7 +516,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Индiа</t>
 
         <t Contlex="PROP-PLC" pos="N">Индия</t>
@@ -534,7 +534,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Исландия</t>
       </tg>
     </mg>
@@ -550,7 +550,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Израиль</t>
       </tg>
     </mg>
@@ -566,7 +566,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Италия</t>
       </tg>
     </mg>
@@ -582,7 +582,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="ACRON" pos="N">СНГ</t>
       </tg>
     </mg>
@@ -598,7 +598,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Балтика саридз</t>
       </tg>
     </mg>
@@ -614,7 +614,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ижевск</t>
       </tg>
     </mg>
@@ -630,7 +630,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ижевск</t>
       </tg>
     </mg>
@@ -646,7 +646,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Яков</t>
       </tg>
     </mg>
@@ -662,7 +662,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ямал кӧдж</t>
       </tg>
     </mg>
@@ -678,7 +678,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Япония</t>
       </tg>
     </mg>
@@ -694,7 +694,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ярославл</t>
       </tg>
     </mg>
@@ -710,7 +710,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Югославия</t>
       </tg>
     </mg>
@@ -726,7 +726,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Юшков</t>
       </tg>
     </mg>
@@ -742,7 +742,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Вой саридз</t>
 
         <t Contlex="PROP-PLC" pos="N">Йиа саридз</t>
@@ -760,7 +760,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-FEM" pos="N">Йӧвдӧкея</t>
       </tg>
     </mg>
@@ -776,7 +776,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Карелия</t>
       </tg>
     </mg>
@@ -792,7 +792,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ылі асыввыв</t>
       </tg>
     </mg>
@@ -808,7 +808,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Шӧр Швеция</t>
       </tg>
     </mg>
@@ -824,7 +824,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Китай</t>
       </tg>
     </mg>
@@ -840,7 +840,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Киров</t>
       </tg>
     </mg>
@@ -856,7 +856,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Коми му</t>
       </tg>
     </mg>
@@ -872,7 +872,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Коми республика</t>
       </tg>
     </mg>
@@ -888,7 +888,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Кореа</t>
       </tg>
     </mg>
@@ -904,7 +904,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Пырас</t>
       </tg>
     </mg>
@@ -920,7 +920,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Краснодар</t>
       </tg>
     </mg>
@@ -936,7 +936,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Кристос</t>
       </tg>
     </mg>
@@ -952,7 +952,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Куратов</t>
       </tg>
     </mg>
@@ -968,7 +968,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Кипр</t>
       </tg>
     </mg>
@@ -984,7 +984,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Ленин</t>
       </tg>
     </mg>
@@ -1000,7 +1000,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Лыткин</t>
       </tg>
     </mg>
@@ -1016,7 +1016,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Миссисипи</t>
       </tg>
     </mg>
@@ -1032,7 +1032,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Молдавия</t>
       </tg>
     </mg>
@@ -1048,7 +1048,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Мордовия</t>
       </tg>
     </mg>
@@ -1064,7 +1064,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Канкар</t>
 
         <t Contlex="PROP-PLC" pos="N">Мӧскуа</t>
@@ -1082,7 +1082,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Сьӧд саридз</t>
       </tg>
     </mg>
@@ -1098,7 +1098,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Норвегия</t>
       </tg>
     </mg>
@@ -1114,7 +1114,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Новосибирск</t>
       </tg>
     </mg>
@@ -1130,7 +1130,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Пама</t>
       </tg>
     </mg>
@@ -1146,7 +1146,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Печора вож</t>
       </tg>
     </mg>
@@ -1162,7 +1162,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Петербург</t>
 
         <t Contlex="PROP_" pos="N">Питир</t>
@@ -1180,7 +1180,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Ботника куръя</t>
       </tg>
     </mg>
@@ -1196,7 +1196,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Войвывса муяс</t>
       </tg>
     </mg>
@@ -1212,7 +1212,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Войвывса сӧвет</t>
       </tg>
     </mg>
@@ -1228,7 +1228,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Португалия</t>
       </tg>
     </mg>
@@ -1244,7 +1244,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Пруссия</t>
       </tg>
     </mg>
@@ -1260,7 +1260,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Польша</t>
       </tg>
     </mg>
@@ -1276,7 +1276,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Ореховса сёрнитчӧм</t>
       </tg>
     </mg>
@@ -1292,7 +1292,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Библия</t>
       </tg>
     </mg>
@@ -1308,7 +1308,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Франция</t>
       </tg>
     </mg>
@@ -1324,7 +1324,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Рим</t>
       </tg>
     </mg>
@@ -1340,7 +1340,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Швеция</t>
       </tg>
     </mg>
@@ -1356,7 +1356,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Германия</t>
       </tg>
     </mg>
@@ -1372,7 +1372,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Александр</t>
 
         <t Contlex="PROP-MAL" pos="N">Ӧльӧк</t>
@@ -1390,7 +1390,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Сӧтана</t>
       </tg>
     </mg>
@@ -1406,7 +1406,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Сибир</t>
       </tg>
     </mg>
@@ -1422,7 +1422,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Пытшкӧс Финляндия</t>
       </tg>
     </mg>
@@ -1438,7 +1438,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Скандинавия</t>
       </tg>
     </mg>
@@ -1454,7 +1454,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Сомали</t>
       </tg>
     </mg>
@@ -1470,7 +1470,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Шри Ланка</t>
       </tg>
     </mg>
@@ -1486,7 +1486,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Финн куръя</t>
       </tg>
     </mg>
@@ -1502,7 +1502,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Суоми</t>
 
         <t Contlex="PROP-PLC" pos="N">Финляндия</t>
@@ -1520,7 +1520,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Сыктывкар</t>
       </tg>
     </mg>
@@ -1536,7 +1536,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Дания</t>
       </tg>
     </mg>
@@ -1552,7 +1552,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Тимин</t>
       </tg>
     </mg>
@@ -1568,7 +1568,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-Sur-Mal" pos="N">Торопов</t>
       </tg>
     </mg>
@@ -1584,7 +1584,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Стокгольм</t>
       </tg>
     </mg>
@@ -1600,7 +1600,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Турция</t>
       </tg>
     </mg>
@@ -1616,7 +1616,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Удмуртия</t>
       </tg>
     </mg>
@@ -1632,7 +1632,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Ухта</t>
       </tg>
     </mg>
@@ -1648,7 +1648,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Венгрия</t>
       </tg>
     </mg>
@@ -1664,7 +1664,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Выль кӧсйысьӧм</t>
       </tg>
     </mg>
@@ -1680,7 +1680,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Беларусь</t>
 
         <t Contlex="PROP-PLC" pos="N">Белорус</t>
@@ -1700,7 +1700,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Важ Кӧсйысьӧм</t>
       </tg>
     </mg>
@@ -1716,7 +1716,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Мездысь</t>
       </tg>
     </mg>
@@ -1732,7 +1732,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Россия</t>
 
         <t Contlex="PROP_" pos="N">Роч му</t>
@@ -1752,7 +1752,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Российскӧй Федерация</t>
 
         <t Contlex="PROP_" pos="N">Россия Федерация</t>
@@ -1770,7 +1770,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Эстония</t>
       </tg>
     </mg>
@@ -1786,7 +1786,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Волга</t>
       </tg>
     </mg>
@@ -1802,7 +1802,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Волга ю бергӧдчанін</t>
       </tg>
     </mg>
@@ -1818,7 +1818,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Воркута</t>
       </tg>
     </mg>
@@ -1834,7 +1834,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">август</t>
 
         <t Contlex="PROP_" pos="N">моз тӧлысь</t>
@@ -1852,7 +1852,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Лунвывса кытш</t>
       </tg>
     </mg>
@@ -1868,7 +1868,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">июль</t>
 
         <t Contlex="PROP_" pos="N">сора тӧлысь</t>
@@ -1886,7 +1886,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">урасьӧм тӧлысь</t>
       </tg>
     </mg>
@@ -1902,7 +1902,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">апрель</t>
       </tg>
     </mg>
@@ -1918,7 +1918,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Рӧство</t>
       </tg>
     </mg>
@@ -1934,7 +1934,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">шӧр нэмъяс</t>
       </tg>
     </mg>
@@ -1950,7 +1950,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">серӧда</t>
 
         <t Contlex="PROP_" pos="N">шӧрлун</t>
@@ -1968,7 +1968,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">июнь</t>
 
         <t Contlex="PROP_" pos="N">лӧддза-номъя тӧлысь</t>
@@ -1986,7 +1986,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Масленича</t>
       </tg>
     </mg>
@@ -2002,7 +2002,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">помлун</t>
 
         <t Contlex="PROP_" pos="N">субӧта</t>
@@ -2020,7 +2020,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-R-RY" pos="N">октябр</t>
       </tg>
     </mg>
@@ -2036,7 +2036,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">март</t>
 
         <t Contlex="PROP_" pos="N">рака тӧлысь</t>
@@ -2054,7 +2054,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">выльлун</t>
       </tg>
     </mg>
@@ -2070,7 +2070,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">вӧльгым тӧлысь</t>
 
         <t Contlex="PROP_" pos="N">ноябрь</t>
@@ -2088,7 +2088,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">витӧдлун</t>
 
         <t Contlex="PROP_" pos="N">пекнича</t>
@@ -2106,7 +2106,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-PLC" pos="N">Юрйыв кодзув</t>
       </tg>
     </mg>
@@ -2122,7 +2122,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Войвывса кытш</t>
       </tg>
     </mg>
@@ -2138,7 +2138,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">Ыджыд лун</t>
       </tg>
     </mg>
@@ -2154,7 +2154,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">вежалун</t>
 
         <t Contlex="PROP_" pos="N">вӧскресенньӧ</t>
@@ -2172,7 +2172,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-ORG" pos="N">Великӧй Отечественнӧй война</t>
       </tg>
     </mg>
@@ -2188,7 +2188,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">кӧч тӧлысь</t>
       </tg>
     </mg>
@@ -2204,7 +2204,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="Prop-R-RY" pos="N">январ</t>
       </tg>
     </mg>
@@ -2220,7 +2220,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">воторник</t>
 
         <t Contlex="PROP_" pos="N">мӧдлун</t>
@@ -2238,7 +2238,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">нёльӧдлун</t>
 
         <t Contlex="PROP_" pos="N">четверг</t>
@@ -2256,7 +2256,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP_" pos="N">викинг</t>
       </tg>
     </mg>
@@ -2272,7 +2272,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Ӧлексей</t>
       </tg>
     </mg>
@@ -2288,7 +2288,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Ӧльӧксей</t>
       </tg>
     </mg>
@@ -2304,7 +2304,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Ӧльӧш</t>
       </tg>
     </mg>
@@ -2320,7 +2320,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-MAL" pos="N">Ӧньӧ</t>
       </tg>
     </mg>
@@ -2336,7 +2336,7 @@
     </lg>
 
     <mg>
-      <tg xml:lang="">
+      <tg xml:lang="kpv">
         <t Contlex="PROP-FEM" pos="N">Ӧпрӧсь</t>
       </tg>
     </mg>

@@ -54,7 +54,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">-in: -imm-</l>
+      <l pos="Adv">-in -imm-</l>
 
       <stg>
         <st/>
@@ -70,7 +70,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">-in: -imma-</l>
+      <l pos="Adv">-in -imma-</l>
 
       <stg>
         <st/>
