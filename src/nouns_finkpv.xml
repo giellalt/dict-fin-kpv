@@ -120891,7 +120891,23 @@
 
   <e>
     <lg>
-      <l pos="N">udmurtti(lainen)</l>
+      <l pos="N">udmurtti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="kpv">
+        <t Contlex="N_" pos="N">удмурт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">udmurttilainen</l>
 
       <stg>
         <st/>
